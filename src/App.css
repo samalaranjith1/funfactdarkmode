@@ -1,0 +1,37 @@
+body{
+  margin: 0px 30vw;
+  
+}
+.darkmode{
+  color: white;
+  background-color: black;
+  margin:0px;
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 5px 5px 5px;
+}
+ .nav-items{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+ }
+
+ .nav-items li{
+  list-style: none;
+  padding: 10px;
+  
+ }
+ .nav-img{
+  width: 40px;
+  border-radius: 30px;
+  background-color: black;
+ }
+ .nav-slide-img{
+  width: 40px;
+  border-radius: 30px;
+ }
+ 
